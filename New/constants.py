@@ -1,0 +1,16 @@
+# Cores do jogo
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GOLD = (255, 215, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+LIGHT_GRAY = (200, 200, 200)
+DARK_GRAY = (64, 64, 64)
+LIGHT_BLUE = (173, 216, 230)
+
+# Cores do tema escuro
+BACKGROUND_DARK = (20, 24, 28)
+TEXT_PRIMARY = (255, 255, 255)
+ACCENT_COLOR = (255, 215, 0)
+SUCCESS_COLOR = (0, 255, 0)
+FAIL_COLOR = (255, 0, 0)
